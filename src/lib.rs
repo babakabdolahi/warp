@@ -5,6 +5,7 @@
 #![cfg_attr(test, deny(warnings))]
 
 //! # warp
+//! hello
 //!
 //! warp is a super-easy, composable, web server framework for warp speeds.
 //!
